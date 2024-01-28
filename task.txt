@@ -1,0 +1,6 @@
+REST API-JSON
+GET/users-List all users
+GET/users/1-get ID1
+GET/users/2-get ID2
+POST/users-create new users ID 1
+PATCH/user/1-edit the user ID 1

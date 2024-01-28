@@ -1,0 +1,7 @@
+Schema-Define the structure
+ Schema-Model
+ using model  we do CRUD operations
+ MVC pattern:
+ model
+ view
+ controller
